@@ -1,0 +1,16 @@
+body{
+	background-color: #fce79f;
+	
+}
+.zagolovok{
+	text-align: center;
+	font-size: 40px;
+}
+.foto{
+	width: 300px;
+	height: 270px;
+	background-color: #fadd73;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	float: left;
+}
